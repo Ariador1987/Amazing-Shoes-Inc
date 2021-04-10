@@ -1,8 +1,9 @@
 @use "variables";
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;500;700;900&display=swap");
 
 body {
     margin: 0;
-    background-color: variables.$bg;
+    font-family: variables.$default-font-family;
     color: #222;
     height: 30rem;
     padding: 1.5rem;

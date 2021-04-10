@@ -1,3 +1,17 @@
-body{margin:0;background-color:red;color:#222;height:30rem;padding:1.5rem;display:flex;justify-content:center;align-items:center}h1{font-size:3rem}.hero{background:url(images/fd246fc517ebc04c1f67.jpg);background-size:cover;background-position:center;min-height:300px;width:100%}
+@import url(https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;500;700;900&display=swap);
+body {
+  margin: 0;
+  font-family: "Noto Sans JP", sans-serif;
+  color: #222;
+  height: 30rem;
+  padding: 1.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  font-size: 3rem;
+}
 
 /*# sourceMappingURL=main.css.map*/
